@@ -12,3 +12,8 @@
 |5|2022. 04. 01. |Clustering|
 |6|2022. 04. 08. |Association Rule Mining|
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
+
+## Project
+|Project|Theme|
+|:------:|:-----:|
+|Project 1</br>(Individual)|California-housing-dataset|
