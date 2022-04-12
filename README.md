@@ -16,4 +16,9 @@
 ## Project
 |Project|Theme|
 |:------:|:-----:|
-|Project 1</br>(Individual)|California-housing-dataset|
+|Project 1</br>(Individual)|Classification of breast cancer dataset|
+
+### Reference
+1. load_breast_cancer
+- https://github.com/jason2133/statistical_machine_learning/blob/master/ch18/chap18_1.ipynb
+- 
