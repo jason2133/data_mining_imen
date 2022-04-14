@@ -19,7 +19,7 @@
 |:------:|:-----:|
 |Project 1</br>(Individual)|Classification of breast cancer dataset|
 
-### Reference
+<!-- ### Reference
 1. load_breast_cancer
 - https://github.com/jason2133/statistical_machine_learning/blob/master/ch18/chap18_1.ipynb
-- https://bigdaheta.tistory.com/33
+- https://bigdaheta.tistory.com/33 -->
