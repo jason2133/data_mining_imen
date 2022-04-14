@@ -11,6 +11,7 @@
 |4|2022. 03. 25. |Classification|
 |5|2022. 04. 01. |Clustering|
 |6|2022. 04. 08. |Association Rule Mining|
+|7|2022. 04. 15. |Dimensionality Reduction|
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
 
 ## Project
