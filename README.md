@@ -12,7 +12,7 @@
 |5|2022. 04. 01. |Clustering|
 |6|2022. 04. 08. |Association Rule Mining|
 |7|2022. 04. 15. |Dimensionality Reduction|
-|8|2022. 04. 22. |Midterm Exam|
+<!-- |8|2022. 04. 22. |Midterm Exam| -->
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
 
 ## Project
