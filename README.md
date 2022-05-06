@@ -13,7 +13,8 @@
 |6|2022. 04. 08. |Association Rule Mining|
 |7|2022. 04. 15. |Dimensionality Reduction|
 |8|2022. 04. 22. |Midterm Exam|
-|9|2022. 04. 29. |Text Mining|
+|9|2022. 04. 29. |Text Mining (1)|
+|10|2022. 05. 06. |Text Mining (2)|
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
 
 ## Project
