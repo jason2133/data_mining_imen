@@ -16,7 +16,7 @@
 |9|2022. 04. 29. |Text Mining (1)|
 |10|2022. 05. 06. |Text Mining (2)|
 |11|2022. 05. 13. |Text Mining (3)|
-|12|2022. 05. 20. |Recommendation System (1)|
+|12|2022. 05. 20. |Word Embedding</br>Recommendation System|
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
 
 ## Project
