@@ -16,13 +16,15 @@
 |9|2022. 04. 29. |Text Mining (1)|
 |10|2022. 05. 06. |Text Mining (2)|
 |11|2022. 05. 13. |Text Mining (3)|
-|12|2022. 05. 20. |Word Embedding</br>Recommendation System|
+|12|2022. 05. 20. |Word Embedding</br>Recommender System (1)|
+|13|2022. 05. 27. |Recommender System (2) |
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
 
 ## Project
 |Project|Theme|
 |:------:|:-----:|
 |Project 1</br>(Individual)|Classification of breast cancer dataset|
+|Project 2</br>(Team)|Classification|
 
 <!-- ### Reference
 1. load_breast_cancer
