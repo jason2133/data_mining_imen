@@ -24,7 +24,7 @@
 |Project|Theme|
 |:------:|:-----:|
 |Project 1</br>(Individual)|Classification of breast cancer dataset|
-|Project 2</br>(Team)|Classification|
+|Project 2</br>(Team)|The project is private in this Git repo.|
 
 <!-- ### Reference
 1. load_breast_cancer
