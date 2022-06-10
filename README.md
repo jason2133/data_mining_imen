@@ -18,6 +18,9 @@
 |11|2022. 05. 13. |Text Mining (3)|
 |12|2022. 05. 20. |Word Embedding</br>Recommender System (1)|
 |13|2022. 05. 27. |Recommender System (2) |
+|14|2022. 06. 03. |Class Suspension|
+|15|2022. 06. 10. |Presentation of Team Project|
+|16|2022. 06. 17. |Final Exam|
 <!-- |5|2022. 02. 23. |Ensemble </br> Support Vector Machine </br> Time Series Data Anlaysis| -->
 
 ## Project
